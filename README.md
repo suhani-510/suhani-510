@@ -210,9 +210,10 @@ An OOP-based web application built for book lovers, exploring object-oriented pr
 ## 📊 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suhani-510&theme=react-dark&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph)
-### 📈 Contribution Summary
-* **2026 Contributions:** 157
-* **2025 Contributions:** 9
+### 📈 My Contribution Count
+
+# 2026: 157 Contributions
+# 2025: 9 Contributions
 
 ## 📫 Get In Touch
 
