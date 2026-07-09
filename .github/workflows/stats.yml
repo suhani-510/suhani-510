@@ -1,0 +1,25 @@
+name: Update GitHub Stats
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs at the top of every hour
+  workflow_dispatch:      # Allows you to trigger it manually
+  push:
+    branches:
+      - main
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Generate stats.svg
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=suhani-510&show_icons=true&theme=radical&hide_border=true&count_private=true" > stats.svg
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats SVG" && git push)
