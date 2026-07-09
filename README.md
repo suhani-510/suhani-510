@@ -26,9 +26,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:D946EF,100:EC4899&height=2">
 
 ## 🧠 About Me
-I'm a **Frontend Developer** studying **B.Tech in Data Science** at **NIT Jalandhar**.
-- 🎨 Building responsive UIs with **React, Vite & Tailwind**
-- 🔧 Leveling up into **Full-Stack Development**
+I'm **Suhani Shakrwal**, a Data Science & Engineering undergraduate at NIT Jalandhar with a passion for building impactful web applications and solving real-world problems through technology.
+
+- 🌱 Currently learning **Data Structures & Algorithms** and **MERN Stack**
+- 💻 Interested in **Full-Stack Development**, **AI**, and **Open Source**
+- 🚀 Love participating in **Hackathons** and building innovative projects
+- 📚 Always exploring new technologies and improving my development skills
+- 📫 Reach me at: **shakrwalsuhani510@gmail.com**-Stack Development**
 - 🤖 Exploring **AI / ML**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:D946EF,100:EC4899&height=2">
