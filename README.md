@@ -209,11 +209,7 @@ An OOP-based web application built for book lovers, exploring object-oriented pr
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhani-510&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=suhani-510&show_icons=true&theme=radical&hide_border=true&cache_bust=1" />
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhani-510&layout=compact&theme=radical" />
 
 ## 📫 Get In Touch
 
