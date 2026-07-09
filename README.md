@@ -209,17 +209,18 @@ An OOP-based web application built for book lovers, exploring object-oriented pr
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=suhani-510&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D946EF&icon_color=8B5CF6&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=suhani-510&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D946EF&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhani-510&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=D946EF" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhani-510&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D946EF&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhani-510&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=D946EF&text_color=c9d1d9&langs_count=6" width="48%" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:D946EF,100:EC4899&height=2">
-
+<img src="https://github-readme-stats.vercel.app/api?username=suhani-510&show_icons=true&theme=radical&hide_border=true&cache_bust=1" />
 <div align="center">
 
 ## 📫 Get In Touch
