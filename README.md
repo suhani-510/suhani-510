@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://github.com/suhani-510"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/suhani-shakrwal-778496325"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="shakrwalsuhani510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="mailto:shakrwalsuhani510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- Graph moved to top -->
